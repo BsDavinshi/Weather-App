@@ -4,10 +4,10 @@ Course Project 2 implementation for **Advanced Web Technologies** at **Sudan Uni
 
 ## Live Demo
 
-- Live application: `https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/`
-- GitHub repository: `https://github.com/YOUR-USERNAME/YOUR-REPO-NAME`
+- Live application: `https://bsdavinshi.github.io/Weather-App/`
+- GitHub repository: `https://github.com/BsDavinshi/Weather-App.git`
 
-> Replace the two links above with your own after enabling GitHub Pages.
+
 
 ## Overview
 
